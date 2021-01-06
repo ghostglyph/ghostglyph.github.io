@@ -23,6 +23,8 @@ img {
 max-width:300px;
 }
 
+footer { font-size: 0.8em; }
+
 .flex-container {
   /* We first create a flex layout context */
   display: flex;
@@ -46,7 +48,7 @@ max-width:300px;
 .flex-item {
 
   padding: 2px;
-  max-width: 400px;
+  max-width: 500px;
   margin-top: 2px;
 
 }
