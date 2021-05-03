@@ -1,5 +1,15 @@
 /* CSS files add styling rules to your content */
+body {
+  background-color: #fffdfa !important;
 
+  font-family: monospace;
+  color: black !important;
+}
+
+* { 
+  color: inherit !important; 
+  background: transparent !important;
+}
 
 
 a:hover {
@@ -12,12 +22,7 @@ a:active {
   color: #1F84D6;
 }
 
-body {
-  background-color: #fffdfa;
 
-  font-family: monospace;
-   color: black;
-}
 
 img {
 max-width:300px;
