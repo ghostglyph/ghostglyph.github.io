@@ -1,70 +1,42 @@
-/* CSS files add styling rules to your content */
+:root {
+  --color-bg: white;
+  --color-text-main: #000000;
+  --color-primary: #FFFF00;
+  --wrapper-height: 87vh;
+  --image-max-width: 300px;
+  --image-margin: 3rem;
+  --font-family: monospace;
+  --font-family-header: monospace;
+}
+
+/* Basic page style resets */
+* {
+  box-sizing: border-box;
+}
+[hidden] {
+  display: none !important;
+}
+
 body {
-  background-color: #fffdfa !important;
-
   font-family: monospace;
-  color: black !important;
+  background-color: var(--color-bg);
 }
 
-* { 
-  color: inherit !important; 
-  background: transparent !important;
+hr {
+  width: 100%;
 }
 
-
-a:hover {
-  background-color: #B8B8FF;
+/* Page structure */
+.wrapper {
+  min-height: var(--wrapper-height);
+  display: grid;
+  place-items: left;
+  margin: 0 1rem;
 }
-
-
-/* selected link */
-a:active {
-  color: #1F84D6;
-}
-
-
-
-img {
-max-width:300px;
-}
-
-footer { font-size: 0.8em; }
-
-.flex-container {
-  /* We first create a flex layout context */
+.content {
   display: flex;
-  
-  /* Then we define the flow direction 
-     and if we allow the items to wrap 
-   * Remember this is the same as:
-   * flex-direction: row;
-   * flex-wrap: wrap;
-   */
-  flex-flow: row wrap;
-  
-  /* Then we define how is distributed the remaining space */
-  justify-content: space-around;
-  
-  padding: 0;
-  margin: 0;
-  list-style: none;
-}
-
-.flex-item {
-
-  padding: 2px;
-  max-width: 500px;
-  margin-top: 2px;
-
-}
-
-table, th, td {
-  border: 1px solid black;
-  font-family: monospace;
-  padding: 1%;
-  margin: 2%;
-  text-align: left;
-  vertical-align:bottom;
-  border-spacing: 5px;
-
+  flex-direction: column;
+  max-width: 600px;
+  align-items: left;
+  justify-content: center;
 }
