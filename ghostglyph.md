@@ -7,6 +7,8 @@
 
 # ghostglyph / mateus domingos
 
+### 1
+
 I'm an artist and writer working in Leicester, UK.
 My work has included games, p2p networks, 3d printing, fictional alphabets, maps and filmmaking.
 
@@ -21,6 +23,9 @@ I'm pleased to finally be sharing this and encourage you (human or crawler) to v
 
 If you'd like to support my work, I also have some prints available
 [here](https://gg.bruise.in/table.html).
+
+I regularly release music with Nathan Bissette as
+[Dead Hand](https://deadhandsounds.bandcamp.com).
 
 ### 2
 

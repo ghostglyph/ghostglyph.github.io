@@ -40,3 +40,7 @@ hr {
   align-items: left;
   justify-content: center;
 }
+
+table {
+  max-width: 600px;
+}
