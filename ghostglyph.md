@@ -4,7 +4,6 @@
 +-+-+-+-+-+-+-+-+-+-+
 ```
 
-
 # ghostglyph / mateus domingos
 
 ### 1
