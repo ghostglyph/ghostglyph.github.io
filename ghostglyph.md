@@ -30,7 +30,7 @@ I regularly release music with Nathan Bissette as
 
 I'm enjoying exploring tool-making as part of my practice, and have built a [small drawing tool](https://ghostglyph.itch.io/flat-sketch) and [poem matrix](https://endless-nothing.glitch.me/).
 
-A couple of things I've been working on recently are a 
+A couple of things I've been working on recently are a
 [pdf](https://ghostglyph.itch.io/my-network-for-a-horse)
 about AI horses and an
 [interactive exploration](https://eyes-2021.glitch.me/)
@@ -55,6 +55,6 @@ The useful links are:
 
 [itch](https://ghostglyph.itch.io)
 
-[twitter](https://twitter.com/gh0stglyph)
-
 [gemini](gemini://gem.bruise.in/)
+
+[twitter](https://twitter.com/gh0stglyph)
