@@ -57,10 +57,10 @@ and
 
 ### 3
 
-The useful links are:
+Some of my links are:
 
-[itch](https://ghostglyph.itch.io)
+- [itch](https://ghostglyph.itch.io)
+- [gemini](gemini://gem.bruise.in/)
+- [twitter](https://twitter.com/gh0stglyph)
 
-[gemini](gemini://gem.bruise.in/)
-
-[twitter](https://twitter.com/gh0stglyph)
+I'm building a page of links to spaces I like, here.
